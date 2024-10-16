@@ -6,3 +6,4 @@ sda.
 add line
 new branch line
 new line merge conflict
+new line for gui
