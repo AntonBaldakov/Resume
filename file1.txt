@@ -5,3 +5,4 @@ izmeneniye
 sda.
 add line
 new branch line
+new line merge conflict
